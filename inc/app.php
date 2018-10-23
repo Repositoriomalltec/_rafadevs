@@ -1,6 +1,6 @@
 <?php
 
-define('TITULO', 'Malltec' , true);
+define('TITULO', 'Malltec - Soluções em Tecnologia' , true);
 define('URL', 'localhost/_rafadevs', true);
 define('EMAIL', 'contato@malltec.com.br', true);
 define('FILE',		basename($_SERVER['SCRIPT_NAME'], '.php'), true);

@@ -10,12 +10,12 @@ body {
 
 ::-moz-selection {
     color: #fff !important;
-    background-color: #50cbb2 !important;
+    background-color: #4f74b6 !important;
 }
 
 ::selection {
     color: #fff !important;
-    background-color: #50cbb2 !important;
+    background-color: #4f74b6 !important;
 }
 
 #return-to-top {

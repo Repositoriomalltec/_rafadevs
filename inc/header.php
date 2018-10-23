@@ -6,14 +6,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta name="author" content="<?=TITULO;?>">
-<meta name="description" content="Portfólio de desenvolvimento Front-End">
+<meta name="description" content="Malltec é uma empresa de desenvolvimento de sistemas e soluções em tecnologias. Entre em contato para saber mais.">
 <meta property="og:title" content="<?=TITULO;?>">
 <meta property="og:type" content="website">
 <meta property="og:url" content="<?=URL;?>">
 <meta property="og:image" content="<?=URL;?>/img/logotipo.jpg?<?=rand();?>">
-<meta property="og:description" content="Portfólio de desenvolvimento Front-End">
+<meta property="og:description" content="Malltec é uma empresa de desenvolvimento de sistemas e soluções em tecnologias. Entre em contato para saber mais.">
 <meta itemprop="name" content="<?=TITULO;?>"/>
-<meta itemprop="description" content="Portfólio de desenvolvimento Front-End">
+<meta itemprop="description" content="Malltec é uma empresa de desenvolvimento de sistemas e soluções em tecnologias. Entre em contato para saber mais.">
 <meta itemprop="image" content="<?=URL;?>/img/logotipo.jpg?<?=rand();?>"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
@@ -28,7 +28,7 @@
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114-precomposed.png">
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72-precomposed.png">
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="img/apple-touch-icon-57-precomposed.png">
-<meta name="theme-color" content="#3fab95">
-<meta name="msapplication-navbutton-color" content="#3fab95">
+<meta name="theme-color" content="#2e569d">
+<meta name="msapplication-navbutton-color" content="#2e569d">
 <meta http-equiv="content-language" content="pt-br">
 <meta name="google-site-verification" content="hyGp0OQL1FO_4jKnwInl6r46kfrGJryEvsnO9Q0eap8" />
